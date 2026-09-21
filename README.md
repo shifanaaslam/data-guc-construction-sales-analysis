@@ -24,19 +24,19 @@ A data analytics project completed as part of my **Data GUC internship**, focuse
 
 ### Sales Dashboard
 
-![Sales Dashboard](./sales.png)
+![Sales Dashboard](Sales.png)
 
-### Projects & Costs Dashboard
+### Project & Costs Dashboard
 
-![Projects & Costs Dashboard](projects-cost-dashboard.png)
+![Project & Costs Dashboard](Project%20%26%20Cost.png)
 
 ### Client Dashboard
 
-![Client Dashboard](client-dashboard.png)
+![Client Dashboard](Client.png)
 
 ### Estimator Performance Dashboard
 
-![Estimator Dashboard](estimator-dashboard.png)
+![Estimator Dashboard](Estimator.png)
 
 ## Key Skills Demonstrated
 
