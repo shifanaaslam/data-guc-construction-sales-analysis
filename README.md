@@ -24,7 +24,7 @@ A data analytics project completed as part of my **Data GUC internship**, focuse
 
 ### Sales Dashboard
 
-![Sales Dashboard](./sales-dashboard.png)
+![Sales Dashboard](./sales.png)
 
 ### Projects & Costs Dashboard
 
